@@ -168,7 +168,7 @@ All 8 analysis blocks are available in `streaming_analysis.sql`:
 ##  Tableau Dashboard
 
 An interactive dashboard visualizing key findings is available at:
-[Tableau Public — Streaming Platform Analytics](https://public.tableau.com/app/profile/sneha.ashok.rao/viz/StreamingPlatformAnalytics-SubscriptionRevenueandChurnIntelligence/Dashboard) *(link to be added)*
+[Tableau Public — Streaming Platform Analytics](https://public.tableau.com/app/profile/sneha.ashok.rao/viz/StreamingPlatformAnalytics-SubscriptionRevenueandChurnIntelligence/Dashboard) 
 
 ---
 
