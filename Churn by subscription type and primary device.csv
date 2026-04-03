@@ -1,0 +1,13 @@
+subscription_type,primary_device,total_subscribers,churned,churn_rate_pct,avg_days_since_login,avg_watch_time
+Premium,Laptop,3833,819,21.37,29.5,152.7
+Standard,Mobile,4967,1014,20.41,29.6,155.2
+Premium,Mobile,3792,772,20.36,29.4,155.8
+Standard,Laptop,5029,1008,20.04,29.2,154.4
+Premium,Smart TV,3778,756,20.01,29.8,154.6
+Standard,Tablet,4962,991,19.97,29.8,155.0
+Standard,Smart TV,4973,991,19.93,29.4,155.5
+Premium,Tablet,3793,752,19.83,29.0,155.3
+Basic,Laptop,3647,711,19.5,29.4,156.7
+Basic,Mobile,3826,742,19.39,29.2,154.2
+Basic,Tablet,3589,695,19.36,29.1,155.7
+Basic,Smart TV,3811,713,18.71,29.4,154.4

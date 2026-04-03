@@ -1,0 +1,9 @@
+favorite_genre,total_subscribers,avg_watch_time_mins,avg_sessions_per_week,avg_completion_rate,avg_rec_click_rate,churn_rate_pct
+Comedy,6259,157.4,9.96,64.652,50.17,20.07
+Romance,6282,155.6,9.94,64.95,49.09,20.2
+Documentary,6352,155.3,9.95,64.431,49.595,19.69
+Thriller,6257,154.9,9.9,64.647,49.799,20.51
+Drama,6203,154.7,9.96,64.104,49.336,19.43
+Action,6235,154.1,10.02,64.649,49.849,19.26
+Sci-Fi,6189,153.9,10.03,64.408,48.652,19.92
+Horror,6223,153.7,10.15,64.419,50.006,20.34

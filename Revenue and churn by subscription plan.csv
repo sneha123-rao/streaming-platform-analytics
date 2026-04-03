@@ -1,0 +1,4 @@
+subscription_type,total_subscribers,avg_monthly_fee,total_monthly_revenue,pct_of_subscribers,churned_count,churn_rate_pct
+Standard,19931,12.33,245835.69,39.9,4004,20.09
+Premium,15196,12.31,187125.04,30.4,3099,20.39
+Basic,14873,12.32,183206.27,29.7,2861,19.24
